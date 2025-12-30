@@ -25,4 +25,4 @@ The GUIDE is crafted by naming a BOOK "Backtrack Guide" on an ANVIL (without the
 
 - Made with care, and to last, by THE WORLD FOUNDRY ( TheWorldFoundry.com / discord.gg/h62NN5R )
 
-Made as a showcase of the BAD FRAMEWORK for Add-Ons.
+Made as a showcase of the BAD FRAMEWORK for Add-Ons. Learn about BAD here: https://youtube.com/live/pBZK8YAp1_A
