@@ -1,0 +1,12 @@
+{
+	"format_version": "1.21.0",
+	"backtrack_jump_pad": {
+		"sound": "metal"
+	},
+	"backtracker_active": {
+		"sound": "glass"
+	},
+	"backtracker_broken": {
+		"sound": "stone"
+	}
+}

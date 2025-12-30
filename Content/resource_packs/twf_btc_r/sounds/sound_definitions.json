@@ -1,0 +1,14 @@
+{
+  "sounds.twf.btc.charge": {
+    "category": "ui",
+    "sounds": [
+      "sounds/twf/btc/charge7"
+    ]
+  },
+	"sounds.twf.btc.warble": {
+    "category": "ui",
+    "sounds": [
+      "sounds/twf/btc/charge6"
+    ]
+  }  
+}

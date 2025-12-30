@@ -1,0 +1,17 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"backtrack_jump_pad": {
+			"textures": "textures/twf/btc/blocks/backtrack_jump_pad"
+		},
+		"backtracker_active": {
+			"textures": "textures/twf/btc/blocks/backtracker"
+		},
+		"backtracker_broken": {
+			"textures": "textures/twf/btc/blocks/backtracker_broken"
+		}
+	}
+}

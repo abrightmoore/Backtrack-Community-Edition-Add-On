@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.twf_btc_light_spin.spin": {
+			"loop": true,
+			"animation_length": 0.48,
+			"bones": {
+				"bone2": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.12": [0, 90, 0],
+						"0.24": [0, 180, 0],
+						"0.36": [0, 270, 0],
+						"0.48": [0, 359, 0]
+					}
+				}
+			},
+			"particle_effects": {
+				"0.0": {
+					"effect": "sparkle"
+				}				
+			}
+		}
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"dependencies": [
+		{
+			"uuid": "0bce443d-6ede-46d3-4c69-e8f4d8d6d031",
+			"version": [1, 0, 0]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.4.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.0.0"
+		}
+	],
+	"format_version": 2,
+	"header": {
+		"description": "pack.description",
+		"min_engine_version": [1, 21, 131],
+		"name": "pack.name",
+		"pack_scope": "world",
+		"uuid": "e77394bc-9115-bb8a-5511-0e6db0a95104",
+		"version": [1, 0, 0]
+	},
+	"metadata": {
+		"authors": ["The World Foundry"],
+		"product_type": "addon",
+		"generated_with": {
+			"blockbench_block_wizard": ["1.5.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"type": "data",
+			"uuid": "0aa32882-47dc-1d42-f1e0-dd95b7b74bd5",
+			"version": [1, 0, 0]
+		},
+		{
+			"description": "Scripting",
+			"entry": "scripts/twf/btc/mainbtc.js",
+			"language": "javascript",
+			"type": "script",
+			"uuid": "3a4d8789-62d0-c7d2-0ad2-ea8b32758b52",
+			"version": [1, 0, 0]
+		},
+		{
+			"type": "data",
+			"uuid": "6fa481b3-81a9-1892-322d-c779ea971a51",
+			"version": [1, 0, 0]
+		}
+	]
+}

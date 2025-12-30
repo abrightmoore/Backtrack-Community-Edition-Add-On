@@ -1,0 +1,29 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "twf_btc:light_spin",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/twf/btc/entity/light_spin"
+			},
+			"geometry": {
+				"default": "geometry.twf_btc_light_spin"
+			},
+			"render_controllers": ["controller.render.default"],
+            "particle_effects": {
+				"sparkle": "twf_btc:charge"
+			},
+            "animations": {
+                "base_pose": "animation.twf_btc_light_spin.spin"
+            },
+            "scripts": {
+                "animate": [
+                    "base_pose"
+                ]
+            }
+		}
+	}
+}
